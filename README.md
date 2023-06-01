@@ -1,9 +1,18 @@
 <!-- hide -->
 # The Misspell Challenge
 <!-- endhide -->
-Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
+Hello!! que tal...No he encontrado ninguna falta de ortografía, así que dejaré algún mensajito por acá en forma de prueba y para poder completar el proyecto.
+
+y de paso un chistesito de parte de ChatGPT: 
+
+"¿Por qué los desarrolladores web son buenos para las relaciones amorosas?
+Porque saben cómo manejar las promesas y resolver los problemas de compatibilidad."
+
+que chistosa la maquina jajaja...
+saludos.
 
 ## 🔷 How to fix a misspell on a 4Geeks Lesson:  
+
 
 ![edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
